@@ -7,4 +7,8 @@ description: more info
 ---
 asafsafas asf safsfsfaas asfasffas
 
-![](/img/screenshot from 2017-11-28 12-44-26.png)
+!\[](/img/screenshot from 2017-11-28 12-44-26.png)
+
+
+
+![noalt](/img/flavor_wheel.jpg)
